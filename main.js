@@ -10,3 +10,4 @@ let enumeratingObjects = 3;
 
 
 let x = 5
+console.log(x);
